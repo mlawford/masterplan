@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 1,
   "AutoSave": true,
-  "Pan.X": 373.0802001953125,
-  "Pan.Y": 187.88232421875,
+  "Pan.X": 240.14157104492188,
+  "Pan.Y": -89.69579315185547,
   "ZoomLevel": 4,
   "TaskTransparency": 5,
   "OutlineTasks": true,
@@ -106,7 +106,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 272,
+      "Position.Y": 240,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -118,7 +118,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 560,
+      "Position.Y": 528,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -130,7 +130,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 432,
+      "Position.Y": 400,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -142,7 +142,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 496,
+      "Position.Y": 464,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -154,7 +154,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 528,
+      "Position.Y": 496,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -202,7 +202,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 352,
+      "Position.Y": 320,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -239,7 +239,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 320,
+      "Position.Y": 288,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -523,7 +523,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 288,
+      "Position.Y": 256,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -535,7 +535,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 368,
+      "Position.Y": 336,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -547,7 +547,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 384,
+      "Position.Y": 352,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -559,7 +559,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 400,
+      "Position.Y": 368,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -570,32 +570,8 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -416,
-      "Position.Y": 256,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Test crosscode style ranged attack",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "May 22 2021 02:11:07"
-    }, 
-    {
-      "BoardIndex": 0,
-      "Position.X": -416,
-      "Position.Y": 240,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "While aiming press RB to slash and send spirit axes from player position ",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "May 22 2021 02:11:28"
-    }, 
-    {
-      "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 304,
+      "Position.Y": 272,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -619,7 +595,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -368,
-      "Position.Y": 416,
+      "Position.Y": 384,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -631,7 +607,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 464,
+      "Position.Y": 432,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -643,7 +619,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -368,
-      "Position.Y": 480,
+      "Position.Y": 448,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -672,7 +648,7 @@
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Object that player dashes into to leap over short gap quickly",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "May 22 2021 02:29:58"
     }, 
@@ -763,7 +739,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 336,
+      "Position.Y": 304,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -775,7 +751,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 448,
+      "Position.Y": 416,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -787,7 +763,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 512,
+      "Position.Y": 480,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -799,7 +775,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 544,
+      "Position.Y": 512,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,

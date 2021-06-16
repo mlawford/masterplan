@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 1,
   "AutoSave": true,
-  "Pan.X": 352,
-  "Pan.Y": -120,
+  "Pan.X": 134.58004760742188,
+  "Pan.Y": -47.971435546875,
   "ZoomLevel": 4,
   "TaskTransparency": 5,
   "OutlineTasks": true,
@@ -106,7 +106,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 256,
+      "Position.Y": 240,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -118,7 +118,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 544,
+      "Position.Y": 528,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -130,7 +130,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 416,
+      "Position.Y": 400,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -142,7 +142,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 480,
+      "Position.Y": 464,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -154,7 +154,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 512,
+      "Position.Y": 496,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -202,7 +202,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 336,
+      "Position.Y": 320,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -239,7 +239,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 304,
+      "Position.Y": 288,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -349,7 +349,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -176,
+      "Position.Y": -160,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -361,7 +361,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -80,
+      "Position.Y": -64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -373,7 +373,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -64,
+      "Position.Y": -48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -385,7 +385,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": -144,
+      "Position.Y": -128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -397,7 +397,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -160,
+      "Position.Y": -144,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -409,7 +409,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -48,
+      "Position.Y": -32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -421,7 +421,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": -16,
+      "Position.Y": 0,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -433,7 +433,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 0,
+      "Position.Y": 16,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -445,7 +445,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 16,
+      "Position.Y": 32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -457,7 +457,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 32,
+      "Position.Y": 48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -469,7 +469,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 48,
+      "Position.Y": 64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -481,7 +481,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 64,
+      "Position.Y": 80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -500,7 +500,7 @@
       "Description": "REVAMP DEADLINE",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "DeadlineDaySpinner.Number": 1,
+      "DeadlineDaySpinner.Number": 9,
       "DeadlineMonthSpinner.CurrentChoice": 5,
       "DeadlineYearSpinner.Number": 2021,
       "CreationTime": "May 17 2021 14:18:16"
@@ -523,7 +523,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 272,
+      "Position.Y": 256,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -535,7 +535,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 352,
+      "Position.Y": 336,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -547,7 +547,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 368,
+      "Position.Y": 352,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -559,7 +559,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 384,
+      "Position.Y": 368,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -570,32 +570,8 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -416,
-      "Position.Y": 240,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Test crosscode style ranged attack",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "May 22 2021 02:11:07"
-    }, 
-    {
-      "BoardIndex": 0,
-      "Position.X": -416,
-      "Position.Y": 224,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "While aiming press RB to slash and send spirit axes from player position ",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "May 22 2021 02:11:28"
-    }, 
-    {
-      "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 288,
+      "Position.Y": 272,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -607,7 +583,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -128,
+      "Position.Y": -112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -619,7 +595,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -368,
-      "Position.Y": 400,
+      "Position.Y": 384,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -631,7 +607,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 448,
+      "Position.Y": 432,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -643,7 +619,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -368,
-      "Position.Y": 464,
+      "Position.Y": 448,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -655,7 +631,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": -112,
+      "Position.Y": -96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -667,19 +643,19 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": -96,
+      "Position.Y": -80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Object that player dashes into to leap over short gap quickly",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "May 22 2021 02:29:58"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 144,
+      "Position.Y": 160,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -691,7 +667,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": -32,
+      "Position.Y": -16,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -703,7 +679,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 208,
+      "Position.Y": 224,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -715,7 +691,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 192,
+      "Position.Y": 208,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -727,7 +703,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 80,
+      "Position.Y": 96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -739,7 +715,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 96,
+      "Position.Y": 112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -751,7 +727,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 128,
+      "Position.Y": 144,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -763,7 +739,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 320,
+      "Position.Y": 304,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -775,7 +751,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 432,
+      "Position.Y": 416,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -787,7 +763,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 496,
+      "Position.Y": 480,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -799,7 +775,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -384,
-      "Position.Y": 528,
+      "Position.Y": 512,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -811,7 +787,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 160,
+      "Position.Y": 176,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -823,7 +799,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 176,
+      "Position.Y": 192,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -835,14 +811,26 @@
     {
       "BoardIndex": 0,
       "Position.X": -400,
-      "Position.Y": 112,
+      "Position.Y": 128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "",
-      "Selected": true,
+      "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "May 25 2021 13:26:47"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -432,
+      "Position.Y": -176,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Animations for RAFAEL!",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Jun 2 2021 09:11:30"
     }
   ]
 }

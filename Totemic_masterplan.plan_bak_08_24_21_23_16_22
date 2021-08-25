@@ -4,9 +4,9 @@
   "BoardIndex": 0,
   "BoardCount": 1,
   "AutoSave": true,
-  "Pan.X": 1270.4853515625,
-  "Pan.Y": -52.922760009765625,
-  "ZoomLevel": 3,
+  "Pan.X": 826.6666870117188,
+  "Pan.Y": 56,
+  "ZoomLevel": 4,
   "TaskTransparency": 4,
   "OutlineTasks": true,
   "BracketSubtasks": true,
@@ -920,7 +920,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -144,
+      "Position.Y": -128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -932,7 +932,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -80,
+      "Position.Y": -96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -948,10 +948,10 @@
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "Enemies: Armored and Status Effects",
+      "Description": "Finish LDTK for forest",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Aug 8 2021 21:37:47"
+      "CreationTime": "Aug 22 2021 20:56:29"
     }, 
     {
       "BoardIndex": 0,
@@ -980,7 +980,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -64,
+      "Position.Y": -32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -992,36 +992,36 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -128,
+      "Position.Y": -80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Mushroom Boss",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Jul 11 2021 17:51:45"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -112,
+      "Position.Y": -64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Boss stomps through parts of the arena, damages player while moving",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Jul 11 2021 17:51:58"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -96,
+      "Position.Y": -48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Bullet hell projectile patterns",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Jul 11 2021 17:52:51"
     }, 
@@ -1052,7 +1052,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -48,
+      "Position.Y": -16,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1636,6 +1636,30 @@
       "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Aug 13 2021 11:04:43"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -144,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Player axe and wolf soul skills",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Aug 22 2021 20:56:47"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -112,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Player upgrades/etching tree revamp",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Aug 22 2021 20:57:02"
     }
   ]
 }

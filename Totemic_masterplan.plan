@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 1,
   "AutoSave": true,
-  "Pan.X": 912,
-  "Pan.Y": 72,
+  "Pan.X": 888.25,
+  "Pan.Y": 89.5,
   "ZoomLevel": 4,
   "TaskTransparency": 4,
   "OutlineTasks": true,
@@ -238,12 +238,12 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -80,
+      "Position.Y": -32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Temple Rooms",
-      "Selected": true,
+      "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Aug 24 2021 23:20:54"
     }, 
@@ -920,7 +920,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -160,
+      "Position.Y": -112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -932,7 +932,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -144,
+      "Position.Y": -96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -944,7 +944,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": 0,
+      "Position.Y": 48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -980,7 +980,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -96,
+      "Position.Y": -48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -992,7 +992,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -64,
+      "Position.Y": -16,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1004,7 +1004,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -48,
+      "Position.Y": 0,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1016,7 +1016,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -32,
+      "Position.Y": 16,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1052,7 +1052,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -16,
+      "Position.Y": 32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1628,7 +1628,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -128,
+      "Position.Y": -80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1640,7 +1640,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -112,
+      "Position.Y": -64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1672,6 +1672,42 @@
       "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Aug 24 2021 23:19:05"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -128,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Forest Map - Design Rooms in LDTK",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 1 2021 22:31:07"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -144,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Fix blinking issue with pitfall after dash",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 2 2021 13:06:53"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -160,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Collision that simulates camera block",
+      "Selected": true,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 3 2021 21:20:04"
     }
   ]
 }

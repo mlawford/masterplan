@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 1,
   "AutoSave": true,
-  "Pan.X": 904,
-  "Pan.Y": 328,
+  "Pan.X": 615,
+  "Pan.Y": -416.25,
   "ZoomLevel": 4,
   "TaskTransparency": 4,
   "OutlineTasks": true,
@@ -1748,7 +1748,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -848,
-      "Position.Y": 272,
+      "Position.Y": 304,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1760,7 +1760,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -848,
-      "Position.Y": 288,
+      "Position.Y": 320,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1772,7 +1772,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -848,
-      "Position.Y": 304,
+      "Position.Y": 352,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1783,20 +1783,20 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -848,
-      "Position.Y": 320,
+      "Position.X": -832,
+      "Position.Y": 416,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "Introduce axe power throw ricochet mechanic",
+      "Description": "Whirlwind - make it last for less time - effective against groups of slimes",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Sep 5 2021 00:55:27"
+      "CreationTime": "Sep 7 2021 13:49:29"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -848,
-      "Position.Y": 240,
+      "Position.Y": 272,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1808,7 +1808,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -848,
-      "Position.Y": 336,
+      "Position.Y": 400,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1832,7 +1832,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -832,
-      "Position.Y": 256,
+      "Position.Y": 288,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1849,9 +1849,93 @@
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Finish mapping World 1",
-      "Selected": true,
+      "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Sep 7 2021 01:02:21"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -848,
+      "Position.Y": 240,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Detour",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 11:34:08"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -832,
+      "Position.Y": 256,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Look at family of deer across the river, they stop and stare",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 11:34:13"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -832,
+      "Position.Y": 336,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Throw axe across barrier to lower barrier",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 13:43:26"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -832,
+      "Position.Y": 368,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Ricochet off angled block",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 13:46:26"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -832,
+      "Position.Y": 384,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Recall to hit a unreachable switch",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 13:48:42"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -848,
+      "Position.Y": 432,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Brute mini boss",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 13:49:51"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -832,
+      "Position.Y": 448,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Slam spawns slimes from ground",
+      "Selected": true,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Sep 7 2021 13:49:55"
     }
   ]
 }

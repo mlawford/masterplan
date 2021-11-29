@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 2,
   "AutoSave": true,
-  "Pan.X": 832,
-  "Pan.Y": 456,
+  "Pan.X": 730.7777709960938,
+  "Pan.Y": 310.5,
   "ZoomLevel": 4,
   "TaskTransparency": 4,
   "OutlineTasks": true,
@@ -71,7 +71,7 @@
       "BoardIndex": 0,
       "Position.X": -1504,
       "Position.Y": 400,
-      "Checkbox.Checked": false,
+      "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Hop state",
@@ -155,7 +155,7 @@
       "BoardIndex": 0,
       "Position.X": -1504,
       "Position.Y": 432,
-      "Checkbox.Checked": false,
+      "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Slam attack spawns slimes",
@@ -167,7 +167,7 @@
       "BoardIndex": 0,
       "Position.X": -432,
       "Position.Y": -128,
-      "Checkbox.Checked": false,
+      "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Trail of tiles that connect switchs and thier counterparts",
@@ -178,7 +178,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -976,
-      "Position.Y": -304,
+      "Position.Y": -288,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -190,7 +190,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -96,
+      "Position.Y": 16,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -215,7 +215,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 112,
+      "Position.Y": 96,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -227,7 +227,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 128,
+      "Position.Y": 112,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -239,7 +239,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 64,
+      "Position.Y": 48,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -251,7 +251,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 48,
+      "Position.Y": 32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -263,7 +263,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 144,
+      "Position.Y": 128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -275,7 +275,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 160,
+      "Position.Y": 144,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -376,20 +376,20 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -432,
-      "Position.Y": -112,
+      "Position.X": -560,
+      "Position.Y": -496,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "Critical hits?",
+      "Description": "Opening campfire cutscene",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Jul 7 2021 17:47:00"
+      "CreationTime": "Nov 28 2021 01:00:34"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 80,
+      "Position.Y": 64,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -401,7 +401,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -64,
+      "Position.Y": -80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -413,7 +413,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 96,
+      "Position.Y": 80,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -425,7 +425,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -48,
+      "Position.Y": -64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -437,7 +437,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 240,
+      "Position.Y": 224,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -449,7 +449,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 224,
+      "Position.Y": 208,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -461,7 +461,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 176,
+      "Position.Y": 160,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -473,7 +473,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 192,
+      "Position.Y": 176,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -485,7 +485,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 208,
+      "Position.Y": 192,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -509,7 +509,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -96,
+      "Position.Y": -112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -521,7 +521,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -16,
+      "Position.Y": -32,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -533,7 +533,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 0,
+      "Position.Y": -16,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -545,7 +545,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 16,
+      "Position.Y": 0,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -557,7 +557,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 288,
+      "Position.Y": 272,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -569,7 +569,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 32,
+      "Position.Y": 16,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -581,7 +581,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -32,
+      "Position.Y": -48,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -593,7 +593,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": -80,
+      "Position.Y": -96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -604,23 +604,20 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -992,
-      "Position.Y": -512,
+      "Position.X": -832,
+      "Position.Y": -560,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "WEEKLY GOALS",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "DeadlineDaySpinner.Number": 23,
-      "DeadlineMonthSpinner.CurrentChoice": 7,
-      "DeadlineYearSpinner.Number": 2021,
       "CreationTime": "Jul 6 2021 18:00:36"
     }, 
     {
       "BoardIndex": 0,
       "Position.X": -432,
-      "Position.Y": 256,
+      "Position.Y": 240,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -632,7 +629,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -416,
-      "Position.Y": 272,
+      "Position.Y": 256,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -763,15 +760,15 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -976,
-      "Position.Y": -496,
+      "Position.X": -560,
+      "Position.Y": -464,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "Done",
-      "Selected": false,
+      "Description": "Journal: View objective on map?",
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Aug 16 2021 10:52:38"
+      "CreationTime": "Nov 28 2021 01:05:55"
     }, 
     {
       "BoardIndex": 0,
@@ -1147,30 +1144,6 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -960,
-      "Position.Y": -480,
-      "Checkbox.Checked": true,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Change textboxes to use portraits",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "Jul 26 2021 01:35:08"
-    }, 
-    {
-      "BoardIndex": 0,
-      "Position.X": -960,
-      "Position.Y": -464,
-      "Checkbox.Checked": true,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Revamp important enemy/combat mechanics",
-      "Selected": true,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "Jul 26 2021 01:35:40"
-    }, 
-    {
-      "BoardIndex": 0,
       "Position.X": -1536,
       "Position.Y": -208,
       "Checkbox.Checked": false,
@@ -1180,18 +1153,6 @@
       "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Jul 26 2021 01:36:10"
-    }, 
-    {
-      "BoardIndex": 0,
-      "Position.X": -976,
-      "Position.Y": -432,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Work on mushroom boss/new template for future bosses",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "Jul 26 2021 01:37:43"
     }, 
     {
       "BoardIndex": 0,
@@ -1257,7 +1218,7 @@
       "BoardIndex": 0,
       "Position.X": -1520,
       "Position.Y": 256,
-      "Checkbox.Checked": false,
+      "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Flash red instead of white on hit? Flash white when armored?",
@@ -1352,7 +1313,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -80,
+      "Position.Y": 32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1387,30 +1348,6 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -976,
-      "Position.Y": -416,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Player axe and wolf soul skills",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "Aug 22 2021 20:56:47"
-    }, 
-    {
-      "BoardIndex": 0,
-      "Position.X": -976,
-      "Position.Y": -400,
-      "Checkbox.Checked": false,
-      "Progression.Current": 0,
-      "Progression.Max": 0,
-      "Description": "Player upgrades/etching tree revamp",
-      "Selected": false,
-      "TaskType.CurrentChoice": 0,
-      "CreationTime": "Aug 22 2021 20:57:02"
-    }, 
-    {
-      "BoardIndex": 0,
       "Position.X": -1520,
       "Position.Y": 16,
       "Checkbox.Checked": false,
@@ -1436,7 +1373,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -112,
+      "Position.Y": 0,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1448,7 +1385,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -48,
+      "Position.Y": 64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1460,7 +1397,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -32,
+      "Position.Y": 80,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1472,7 +1409,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 0,
+      "Position.Y": 112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1484,7 +1421,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 64,
+      "Position.Y": 176,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1496,7 +1433,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 80,
+      "Position.Y": 192,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1508,7 +1445,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 96,
+      "Position.Y": 208,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1520,7 +1457,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 112,
+      "Position.Y": 224,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1532,7 +1469,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 16,
+      "Position.Y": 128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1544,7 +1481,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": 128,
+      "Position.Y": 240,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1556,7 +1493,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -928,
-      "Position.Y": -16,
+      "Position.Y": 96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1568,7 +1505,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -928,
-      "Position.Y": 32,
+      "Position.Y": 144,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1579,8 +1516,8 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -976,
-      "Position.Y": -448,
+      "Position.X": -816,
+      "Position.Y": -432,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1592,7 +1529,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -192,
+      "Position.Y": -80,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1604,7 +1541,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -928,
-      "Position.Y": 48,
+      "Position.Y": 160,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1640,7 +1577,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -176,
+      "Position.Y": -64,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1652,7 +1589,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -144,
+      "Position.Y": -32,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1664,7 +1601,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -128,
+      "Position.Y": -16,
       "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1676,8 +1613,8 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -160,
-      "Checkbox.Checked": false,
+      "Position.Y": -48,
+      "Checkbox.Checked": true,
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "One way edge",
@@ -1688,7 +1625,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -64,
+      "Position.Y": 48,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1700,7 +1637,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -272,
+      "Position.Y": -224,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1712,7 +1649,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -224,
+      "Position.Y": -112,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1724,7 +1661,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -208,
+      "Position.Y": -96,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1736,7 +1673,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -256,
+      "Position.Y": -144,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1748,7 +1685,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -944,
-      "Position.Y": -240,
+      "Position.Y": -128,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -1760,7 +1697,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -960,
-      "Position.Y": -288,
+      "Position.Y": -240,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -2012,7 +1949,7 @@
     {
       "BoardIndex": 0,
       "Position.X": -560,
-      "Position.Y": -448,
+      "Position.Y": -480,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
@@ -2023,39 +1960,159 @@
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -560,
+      "Position.X": -816,
+      "Position.Y": -544,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "CUTSCENES",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 01:01:30"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -800,
+      "Position.Y": -512,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Opening campfire",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 01:01:38"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -800,
+      "Position.Y": -528,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Opening lore cards",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 01:01:56"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -272,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Functional skill upgrade menu",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:53:53"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -944,
+      "Position.Y": -256,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Trade X relics for level 2 and 3 of acquired soul skill",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:54:07"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -208,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Reduce size of fast travel beacons",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:55:10"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -192,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Interactable POIs, focus on object, kima flavor text",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:55:28"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -176,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Consolidate relics into one currency",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:56:15"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -960,
+      "Position.Y": -160,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "List view for inventory UI?",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 00:56:24"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -816,
       "Position.Y": -496,
-      "Checkbox.Checked": true,
+      "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "One way ledge drop",
+      "Description": "PLAYER & ABILITIES",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Nov 15 2021 01:44:01"
+      "CreationTime": "Nov 28 2021 01:02:49"
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -560,
+      "Position.X": -800,
       "Position.Y": -480,
-      "Checkbox.Checked": true,
+      "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "LB to activate readable object + lever/switch",
+      "Description": "Upgrade acquired soulskills",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Nov 15 2021 01:44:21"
+      "CreationTime": "Nov 28 2021 01:02:58"
     }, 
     {
       "BoardIndex": 0,
-      "Position.X": -560,
+      "Position.X": -816,
       "Position.Y": -464,
       "Checkbox.Checked": false,
       "Progression.Current": 0,
       "Progression.Max": 0,
-      "Description": "Revisit script to draw tooltip to screen (text + input)",
+      "Description": "ENEMIES",
       "Selected": false,
       "TaskType.CurrentChoice": 0,
-      "CreationTime": "Nov 15 2021 01:47:45"
+      "CreationTime": "Nov 28 2021 01:03:15"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -800,
+      "Position.Y": -448,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Mushroom boss",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Nov 28 2021 01:04:17"
     }
   ]
 }

@@ -4,9 +4,9 @@
   "BoardIndex": 0,
   "BoardCount": 2,
   "AutoSave": true,
-  "Pan.X": 976.8709716796875,
-  "Pan.Y": 572,
-  "ZoomLevel": 3,
+  "Pan.X": 296,
+  "Pan.Y": 392,
+  "ZoomLevel": 4,
   "TaskTransparency": 4,
   "OutlineTasks": true,
   "BracketSubtasks": true,
@@ -2542,7 +2542,7 @@
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Pacing with cylceable three pillars: Exploration/Puzzle + Combat + Narrative + (rest/downtime)",
-      "Selected": true,
+      "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Dec 1 2021 21:07:42"
     }, 
@@ -2557,6 +2557,90 @@
       "Selected": false,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Dec 1 2021 21:09:11"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -544,
+      "Position.Y": -480,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Activate dialogue needs to se player to idle bug",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:12:12"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -544,
+      "Position.Y": -464,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Block",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:12:47"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -528,
+      "Position.Y": -432,
+      "Checkbox.Checked": true,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Getting hit in block knocks player back and depletes stamina",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:12:49"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -528,
+      "Position.Y": -416,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Stamina falling below zero breaks block",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:13:07"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -528,
+      "Position.Y": -400,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Stamina needs to recharge to full after being block broken before blocking again",
+      "Selected": true,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:13:18"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -528,
+      "Position.Y": -384,
+      "Checkbox.Checked": false,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Perilous strikes are not blockable",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:13:45"
+    }, 
+    {
+      "BoardIndex": 0,
+      "Position.X": -528,
+      "Position.Y": -448,
+      "Checkbox.Checked": true,
+      "Progression.Current": 0,
+      "Progression.Max": 0,
+      "Description": "Set blocking as hurtbox flag, do separate interaction in hurtbox scripts",
+      "Selected": false,
+      "TaskType.CurrentChoice": 0,
+      "CreationTime": "Dec 2 2021 00:14:29"
     }
   ]
 }

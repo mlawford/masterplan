@@ -4,8 +4,8 @@
   "BoardIndex": 0,
   "BoardCount": 2,
   "AutoSave": true,
-  "Pan.X": 496,
-  "Pan.Y": 456,
+  "Pan.X": 543.458740234375,
+  "Pan.Y": 259.57806396484375,
   "ZoomLevel": 3,
   "TaskTransparency": 4,
   "OutlineTasks": true,
@@ -2638,7 +2638,7 @@
       "Progression.Current": 0,
       "Progression.Max": 0,
       "Description": "Set blocking as hurtbox flag, do separate interaction in hurtbox scripts",
-      "Selected": false,
+      "Selected": true,
       "TaskType.CurrentChoice": 0,
       "CreationTime": "Dec 2 2021 00:14:29"
     }
